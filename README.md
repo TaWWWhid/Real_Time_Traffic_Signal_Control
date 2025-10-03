@@ -6,11 +6,11 @@ It dynamically adjusts signal phases to optimize traffic flow, reduce waiting ti
 ---
 
 ## 📌 Features
-- ✅ Real-time traffic light control
-- ✅ Vehicle position tracking
-- ✅ BFS-based decision-making
-- ✅ Interactive **Tkinter GUI**
-- ✅ Visualization of traffic movement and signal changes
+-  Real-time traffic light control
+-  Vehicle position tracking
+-  BFS-based decision-making
+-  Interactive **Tkinter GUI**
+-  Visualization of traffic movement and signal changes
 
 ---
 
